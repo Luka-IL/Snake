@@ -31,3 +31,11 @@
 .mouse {
     background-color: red;
 }
+
+input {
+    font-size:30;
+    margin: auto;
+    text-align: center;
+    width:200px;
+    height:40px;
+}
